@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975248720825",
+    "project_id": "sampark-chat-app-dafe4",
+    "storage_bucket": "sampark-chat-app-dafe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975248720825:android:70184ef0fae1a5c698ec68",
+        "android_client_info": {
+          "package_name": "com.ansh.collegeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1sWi4IYyF7f-LUNsljULlYrn-gtNx6GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
